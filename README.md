@@ -1,4 +1,4 @@
-########### EFFECTS ###########
+#Effects#
  
 Analysis:
 - TDR Prism
@@ -61,7 +61,7 @@ Misc. Effects:
 - Lifeline Console
 - unstable
  
-########### GENERATORS ###########
+# GENERATORS #
  
 - Steven Slate SSDSampler5 (Drums)
 - 4Front Rhode
